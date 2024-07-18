@@ -4,5 +4,5 @@
     padding:0;
 }
 img{
-    -webkit-box-reflect: below;;
+    -webkit-box-reflect: below; /* box-reflect : below, above, left, right */
 }

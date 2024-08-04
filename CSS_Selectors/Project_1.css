@@ -28,3 +28,8 @@ div
     font-style: italic;
     font-size: 20px;
 }
+*{
+    box-sizing: border-box;
+    margin: 0;
+    
+}

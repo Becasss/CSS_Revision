@@ -7,3 +7,12 @@ div{
     width: 300px;
     border: 1px solid red;
 }
+#para1{
+    font-size: 20px;
+    color: aqua;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    border: 1px solid blue;
+    margin: 4px 6px 24px;
+}

@@ -3,7 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 h2{
     color: rgb(60, 0, 255);
     text-align: center;

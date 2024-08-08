@@ -1,0 +1,9 @@
+ul.a{
+    list-style-type: disc;
+}
+ul.b{
+    list-style-type: square;
+}
+ol.c{
+    list-style-type: upper-roman;
+}

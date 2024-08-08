@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+h2{
+    color: aqua;
+}
+
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 10px;
+    color: aquamarine;
+}

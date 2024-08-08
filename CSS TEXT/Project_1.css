@@ -7,14 +7,16 @@
 h2{
     color: aqua;
     text-align: center;
+    text-decoration: dashed;
 }
 
 
 div{
-    width: 100px;
+    width: 800px;
     height: 100px;
     background-color: #f1f1f1;
     margin: 10px;
     padding: 10px;
-    color: aquamarine;
+    color: rgb(8, 94, 66);
+    overflow: auto;
 }

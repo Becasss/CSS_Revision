@@ -1,0 +1,31 @@
+a:link, a:visited{
+
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+}
+a:hover, a:active{
+    background-color:orange;
+}
+body{
+    height: 100vh;
+ margin: auto;
+    height: 500px;
+    max-width: 500px;
+    background-color: #734444;
+}
+div{display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 70px 20px;
+    background-color: #6e2677;
+    border-radius: 5px;
+    width: 50%;
+    max-width: 400px;
+    margin: 70px 0;
+}

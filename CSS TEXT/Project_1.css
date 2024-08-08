@@ -24,3 +24,9 @@ div{
     color: rgb(8, 94, 66);
     overflow: auto;
 }
+p{
+    margin: 5px;
+    padding: 5px;
+    font-size: 18px;
+    text-indent: 50px;
+}

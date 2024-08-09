@@ -1,12 +1,12 @@
 div.ex1{
-    width: 500px;
+    width: 100%;
     margin: auto;
     border: 3px solid black;
     padding: 20px 30px;
     text-align: center;
 }
 div.ex2{
-    max-width: 500px;
+    max-width: 100%;
     margin: auto;
     border: 3px solid black;
     padding: 20px 30px;

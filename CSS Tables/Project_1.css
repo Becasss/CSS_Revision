@@ -3,6 +3,6 @@
     padding: 0;
     box-sizing: border-box;s
 }
-th,td{
+table,th,td{
     border: 1px solid black;
 }

@@ -2,4 +2,15 @@ div.ex1{
     width: 500px;
     margin: auto;
     border: 3px solid black;
+    padding: 20px 30px;
+    text-align: center;
+}
+div.ex2{
+    max-width: 500px;
+    margin: auto;
+    border: 3px solid black;
+    padding: 20px 30px;
+    text-align: center;
+    background-color: antiquewhite;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
 }

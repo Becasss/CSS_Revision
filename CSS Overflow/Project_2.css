@@ -3,3 +3,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #d49595;
+}
+p{
+    background: greenyellow;
+    color: black;
+    overflow: scroll;
+    width: 100%;
+    height: 70px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+}
+.para{
+  
+margin: auto;
+    color: black;
+    overflow: auto;
+    border: 2px solid black;
+    height: 60px;
+    width: 50%;
+}
+h2{
+    text-align: center;
+}

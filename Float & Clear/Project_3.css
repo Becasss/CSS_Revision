@@ -19,3 +19,8 @@ header, .footer{
     float: left;
     padding: 15px;
 }
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: table;
+}

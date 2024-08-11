@@ -1,0 +1,19 @@
+p{
+    display: none;
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+}
+div:hover p{
+    display: block;
+}
+span{
+    background-color:green;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+span:hover{
+    background-color: red;
+}

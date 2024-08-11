@@ -5,3 +5,6 @@ div p{
     text-align: center;
     width: 200px;
 }
+div.child>p{
+    background-color: aqua;
+}

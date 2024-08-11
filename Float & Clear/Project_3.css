@@ -35,3 +35,9 @@ header, .footer{
     margin: 0;
     padding: 0;
 }
+.menu li{
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color: #33b5e5;
+    color: #ffffff;
+}

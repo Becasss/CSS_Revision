@@ -6,3 +6,7 @@ p.para1::first-letter{
     font-size: 30px;
     color: #00ff00;
 }
+p.intro::first-letter{
+    color: #6600ff;
+    font-size: 200%;
+}

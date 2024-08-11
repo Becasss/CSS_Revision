@@ -15,3 +15,7 @@ header, .footer{
     text-align: center;
     font-size: 25px;
 }
+.column{
+    float: left;
+    padding: 15px;
+}

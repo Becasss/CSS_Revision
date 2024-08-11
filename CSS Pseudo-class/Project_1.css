@@ -17,6 +17,3 @@ span{
 span:hover{
     background-color: red;
 }
-header:first-child{
-    color: blue ;
-}

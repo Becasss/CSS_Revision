@@ -24,3 +24,6 @@ header, .footer{
     clear: both;
     display: table;
 }
+.menu{
+    width: 25%;
+}

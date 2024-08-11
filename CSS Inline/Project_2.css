@@ -1,0 +1,22 @@
+.nav{
+    background:yellow;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.nav li{
+    display: inline-block;
+    font-size: 20px;
+   padding: 14px 16px;
+}
+.nav li a{
+    text-decoration: none;
+    color: black;
+    padding: 14px 16px;
+
+}
+.nav li a:hover{
+    background-color: red;
+    color: white;
+}

@@ -1,0 +1,7 @@
+div p{
+    background-color: yellow;
+    border: 2px solid gray;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+}

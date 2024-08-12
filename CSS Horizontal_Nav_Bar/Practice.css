@@ -33,3 +33,6 @@ ul.topnav li .right{float:right}
         float: none;
     }
 }
+div{
+    padding: 0 16px;
+}

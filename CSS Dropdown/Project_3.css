@@ -4,9 +4,9 @@
     padding: 14px 16px;
     font-size: 16px;
     border: none;
-    cursor: pointer;s
+    cursor: pointer;
 }
-.dropdwon{
+.dropdown{
     position: relative;
     display: inline-block;
 }

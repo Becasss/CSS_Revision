@@ -1,0 +1,7 @@
+input{
+    width: 100%;
+    background-color: aqua;
+}
+input:hover{
+    background-color: azure;
+}

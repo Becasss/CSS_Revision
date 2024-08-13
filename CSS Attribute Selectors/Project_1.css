@@ -1,0 +1,11 @@
+a[target]{
+    background-color: blue;
+    display: block;
+    color: white;
+    padding: 10px;
+    min-width: 120px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}

@@ -21,3 +21,19 @@ div.desc{
     float: left;
     width: 24.99%;
 }
+@media only screen and (max-width:700px){
+    .responsive{
+        width: 49.99%;
+        margin: 6px 0;
+    }
+}
+@nedia only screen and (max-width:500px){
+    .responsive{
+        width: 100%;
+    }
+}
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: table;
+}

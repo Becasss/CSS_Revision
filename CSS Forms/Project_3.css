@@ -9,5 +9,11 @@ body{
     background-color: #f0f0f0;
 }
 input[type=button], input[type=reset], input[type=submit]{
-    
+    background-color: #04aabd;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
 }

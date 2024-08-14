@@ -1,0 +1,14 @@
+#div1{
+
+    position: absolute;
+    left: 10px;
+    width: calc(100% - 100px);
+    border: 1px solid #ccc;
+    background-color: yellow;
+    padding: 5px;
+}
+#div2{
+    background-color: antiquewhite;
+    height: 100px;
+    width: max(60%, 400px);
+}

@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+header{
+    background-color: #9e9191;
+    padding: 20px;
+    text-align: center;
+}
+ul.topnav{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+}
+ul.topnav li{
+    float: left;
+}
+ul.topnav li a{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul.topnav li a:hover{
+    background-color: #dddd;
+    color: black;
+}
+.column{
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+}
+.container::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+@media screen and (max-width: 600px){
+    .column{
+        width: 100%;
+    }
+}
